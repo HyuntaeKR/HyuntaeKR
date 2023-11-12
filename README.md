@@ -2,7 +2,7 @@
 <p align="center">
 I'm <strong>Hyuntae Park</strong>. An undergraduate chemical engineer, currently persuing a bachelor's degree in <strong>Korea University</strong>.</br>
 </br>
-<img src="./images/crimson2positive.gif" alt="School logo" width="" height="150">
+<img src="./images/crimson2positive.gif" alt="School logo" width="140" height="170">
 </p></br>
 
 ## Contents :book:
